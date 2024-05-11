@@ -2,6 +2,9 @@
 
 O WasteWiseEats é um aplicativo móvel revolucionário que visa combater o desperdício de alimentos conectando restaurantes dispostos a doar alimentos excedentes a organizações de caridade. Desenvolvido com Java e Android Studio, o WasteWiseEats utiliza tecnologia de ponta para criar uma experiência fluida e amigável ao usuário.
 
+## Protótipo Figma  
+https://www.figma.com/file/LnPZag8FD7Kedd27wz2lKr/Untitled?type=design&node-id=0-1&mode=design&t=kGjmZC7ADZY92y9J-0
+
 ## Tecnologias Utilizadas
 
 ### Java
