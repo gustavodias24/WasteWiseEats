@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="marromClaro">#E1DEC3</color>
+    <color name="marrom">#AC5617</color>
+    <color name="marromEscuro">#804011</color>
+    <color name="marromEscuroBlack">#331907</color>
+    <color name="laranja">#FF7F22</color>
+    <color name="verde">#177500</color>
+    <color name="ciano">#5A9BD5</color>
+</resources>
